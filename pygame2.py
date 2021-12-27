@@ -4,6 +4,8 @@ import math
 import pygame.mixer
 from pygame.locals import *
 
+#1st change
+
 black = 0, 0, 0
 white = 255, 255, 255
 red = 255, 0, 0
